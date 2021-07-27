@@ -1,4 +1,7 @@
-### Hi there 👋
+### My Github at a Glance
+<a href="https://github.com/dani-hartley/dani-hartley">
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=dani-hartley1&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
+</a>
 
 <!--
 **dani-hartley/dani-hartley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
