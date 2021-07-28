@@ -14,6 +14,9 @@
 <a href="https://dani-hartley.github.io/dani-portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
+<a href="mailto:dani_hartley@msn.com" target="blank">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
 
 ### Languages
 
